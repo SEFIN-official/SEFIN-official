@@ -24,12 +24,28 @@
 ## 🧠 Engineer Snapshot
 
 > I build **production-grade AI systems**, not just models.  
-> My work focuses on **LLMs, RAG pipelines, agentic workflows, and AI automation**, with strong emphasis on **system design and scalability**.
+> My focus is on **LLMs, RAG pipelines, agentic workflows, and AI automation**, with strong emphasis on **system design, scalability, and real-world impact**.
 
 - 🎓 B.E. Computer Science @ **Kumaraguru College of Technology**
-- 🤖 Focus: **GenAI, RAG, Agentic AI, Automation**
-- ⚙️ Hands-on: **n8n, Vector DBs, LLM orchestration**
-- 🚀 Goal: **AI / ML Engineer roles**
+- 🤖 Core Areas: **GenAI, RAG, Agentic AI, Automation**
+- ⚙️ Hands-on: **n8n, Vector Databases, LLM Orchestration**
+- 🎯 Target Roles: **AI / ML Engineer**
+
+---
+
+## 💻 Computer Science in Action
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="520"
+    alt="Coding Animation"
+  />
+</p>
+
+<p align="center">
+  <i>Turning logic, data, and models into intelligent systems.</i>
+</p>
 
 ---
 
@@ -42,14 +58,14 @@
 ### 🤖 AI & ML
 - Machine Learning & Deep Learning
 - CNN-based Computer Vision
-- Model evaluation & inference
+- Model evaluation & inference pipelines
 
 </td>
 <td width="50%">
 
 ### 🧠 GenAI Systems
 - Prompt engineering
-- RAG pipelines
+- RAG architectures
 - Embeddings & semantic search
 
 </td>
@@ -60,14 +76,14 @@
 ### 🧩 Agentic AI
 - Tool-using LLM agents
 - Multi-step reasoning
-- Automation workflows (n8n)
+- n8n automation workflows
 
 </td>
 <td>
 
 ### ⚙️ Backend & Infra
 - REST APIs for AI services
-- Vector indexing strategies
+- Vector DB indexing strategies
 - Deployable AI architectures
 
 </td>
@@ -112,58 +128,14 @@
 ## 🚀 Highlight Projects
 
 ### 🧠 GenAI Cold Email Generator
-- LLM-driven personalized cold emails
+- LLM-driven personalized email generation
 - Semantic skill matching using embeddings
 - **Tech:** Llama 3.1 · LangChain · ChromaDB
 
 ### 🗳 Smart Voting System (Face Recognition)
 - Secure one-person-one-vote enforcement
-- OpenCV + KNN based authentication
-- Real-time CSV audit logs
+- OpenCV + KNN authentication
+- Real-time audit logs
 
 ### 🌱 Plant Disease Classification
-- CNN-based image classification
-- Streamlit-powered UI
-- Confidence-aware predictions
-
-### 🔗 RAG System using n8n
-- Visual, no-code RAG orchestration
-- LLM + Vector DB integration
-- Modular ingestion & querying
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SefinNAP&show_icons=true&theme=radical&cache_seconds=1800" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=SefinNAP&theme=radical&cache_seconds=1800" 
-    width="48%" 
-  />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://kaggle.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-  </a>
-  <a href="mailto:sefindls1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>⚡ Engineering intelligent systems, not just training models.</strong>
-</p>
+- CNN-based image classi
