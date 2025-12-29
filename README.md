@@ -1,10 +1,15 @@
-<h1 align="center">Sefin N A P</h1>
+<h1 align="center">
+  🚀 Sefin N A P
+</h1>
+
 <h3 align="center">
-AI / ML Engineer • GenAI Systems • Agentic AI • AI Automation Architect
+  AI / ML Engineer • GenAI Systems • Agentic AI • Automation Architect
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00FEEF&center=true&vCenter=true&width=900&lines=Designing+LLM-powered+Systems+%7C+RAG+%7C+Agents;From+Model+to+Production+AI+Pipelines;AI+Automation+with+Real-World+Impact;Engineering+AI+that+Scales" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=00FEEF&center=true&vCenter=true&width=900&lines=Designing+LLM-powered+Systems;RAG+%7C+Agents+%7C+AI+Automation;From+Research+to+Production+AI;Engineering+AI+that+Scales" 
+  />
 </p>
 
 <p align="center">
@@ -12,150 +17,153 @@ AI / ML Engineer • GenAI Systems • Agentic AI • AI Automation Architect
   <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20Internships%20%26%20Roles-0A66C2?style=for-the-badge"/>
 </p>
 
----
-
-## 🧠 Engineer’s Summary (Read This First)
-
-I am a **Computer Science engineer** focused on building **production-grade AI systems**, not just training models.
-
-My work revolves around:
-- **LLMs, RAG pipelines, and vector databases**
-- **Agentic AI & automation workflows**
-- **End-to-end AI products** (data → model → API → UI → deployment)
-
-I care deeply about **system design, scalability, and real-world usability**.
+<br/>
 
 ---
 
-## 🎯 Core Expertise
+## 🧠 Engineer Snapshot
 
-### 🔹 Artificial Intelligence & ML
-- Machine Learning & Deep Learning foundations
-- CNNs for vision-based systems
-- Model evaluation, optimization, and inference pipelines
+> I build **production-grade AI systems**, not just models.  
+> My work focuses on **LLMs, RAG pipelines, agentic workflows, and AI automation**, with strong emphasis on **system design and scalability**.
 
-### 🔹 Generative AI & LLM Systems
-- Prompt engineering & structured prompting
-- Retrieval-Augmented Generation (RAG)
+- 🎓 B.E. Computer Science @ **Kumaraguru College of Technology**
+- 🤖 Focus: **GenAI, RAG, Agentic AI, Automation**
+- ⚙️ Hands-on: **n8n, Vector DBs, LLM orchestration**
+- 🚀 Goal: **AI / ML Engineer roles**
+
+---
+
+## 🎯 Core Domains
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & ML
+- Machine Learning & Deep Learning
+- CNN-based Computer Vision
+- Model evaluation & inference
+
+</td>
+<td width="50%">
+
+### 🧠 GenAI Systems
+- Prompt engineering
+- RAG pipelines
 - Embeddings & semantic search
-- LLM orchestration with tools & agents
 
-### 🔹 Agentic AI & Automation
-- Agent-based reasoning workflows
-- n8n for AI automation pipelines
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧩 Agentic AI
 - Tool-using LLM agents
-- Multi-step decision pipelines
+- Multi-step reasoning
+- Automation workflows (n8n)
 
-### 🔹 Backend & AI Infrastructure
+</td>
+<td>
+
+### ⚙️ Backend & Infra
 - REST APIs for AI services
-- Vector databases & indexing strategies
-- Data pipelines for AI systems
-- Deployment-ready architectures
+- Vector indexing strategies
+- Deployable AI architectures
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Technology Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### 🤖 AI / ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+### 🤖 AI / ML
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
 
-### 🧠 GenAI Ecosystem
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5A5A?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00CFFF?style=for-the-badge)
+### 🧠 GenAI & Data
+<p>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A5A5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weaviate-00CFFF?style=for-the-badge"/>
+</p>
 
-### ⚙️ Automation & Backend
-![n8n](https://img.shields.io/badge/n8n-AI%20Automation-orange?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### 🛠 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+### ⚙️ Automation & Web
+<p>
+<img src="https://img.shields.io/badge/n8n-AI%20Automation-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Selected Projects (High-Signal)
+## 🚀 Highlight Projects
 
 ### 🧠 GenAI Cold Email Generator
-**Problem:** Manual personalization does not scale  
-**Solution:** LLM-driven email generation using semantic skill matching  
-**Tech:** Llama 3.1 · LangChain · ChromaDB  
-**Highlights:**
-- Context-aware personalization
-- Vector-based portfolio matching
-- Streamlit UI for fast iteration
-
----
+- LLM-driven personalized cold emails
+- Semantic skill matching using embeddings
+- **Tech:** Llama 3.1 · LangChain · ChromaDB
 
 ### 🗳 Smart Voting System (Face Recognition)
-**Problem:** Duplicate & unauthorized voting  
-**Solution:** Face-authenticated voting pipeline  
-**Tech:** OpenCV · KNN · Python  
-**Highlights:**
-- One-person-one-vote enforcement
-- Real-time vote status
-- CSV-based audit logs
-
----
+- Secure one-person-one-vote enforcement
+- OpenCV + KNN based authentication
+- Real-time CSV audit logs
 
 ### 🌱 Plant Disease Classification
-**Problem:** Manual crop disease identification  
-**Solution:** CNN-based image classification system  
-**Tech:** CNN · TensorFlow · Streamlit  
-**Highlights:**
-- Confidence-based predictions
-- User-friendly web interface
-- Deployable ML workflow
-
----
+- CNN-based image classification
+- Streamlit-powered UI
+- Confidence-aware predictions
 
 ### 🔗 RAG System using n8n
-**Problem:** Static knowledge retrieval  
-**Solution:** Dynamic LLM + Vector DB RAG pipeline  
-**Tech:** n8n · LLMs · Vector Databases  
-**Highlights:**
-- No-code orchestration
+- Visual, no-code RAG orchestration
+- LLM + Vector DB integration
 - Modular ingestion & querying
-- Explainable AI workflows
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SefinNAP&show_icons=true&theme=radical&cache_seconds=1800" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=SefinNAP&theme=radical&cache_seconds=1800" 
+    width="48%" 
+  />
 </p>
 
 ---
 
 ## 🌐 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: sefindls1@gmail.com
-- 🧠 Kaggle: https://kaggle.com/YOUR_USERNAME
-
----
-
-## 🎯 Opportunities I’m Interested In
-
-- AI / ML Engineer Internships & Full-Time Roles
-- GenAI / LLM Platform Teams
-- AI Automation & Agentic Systems
-- Research-driven engineering teams
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://kaggle.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+  <a href="mailto:sefindls1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>🚀 Engineering intelligent systems, not just models.</strong>
+  <strong>⚡ Engineering intelligent systems, not just training models.</strong>
 </p>
